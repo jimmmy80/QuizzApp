@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@drawable/wordd"
+    tools:context="com.example.android.fuzzymaths.MainActivity"
+    tools:ignore="MergeRootFrame">
+
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/startquizz"
+            android:text="START QUIZZ"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:onClick=""
+            android:layout_gravity="center"/>
+
+
+
+</RelativeLayout>
+
+
+
+
+
